@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/UART_MENSAJE_2/src/uart_top.v",
+  "InstLine" : 1,
+  "InstName" : "uart_top",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/UART_MENSAJE_2/src/uart_top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "uart_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/UART_MENSAJE_2/src/uart_top.v",
+    "InstLine" : 27,
+    "InstName" : "u_rx",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/UART_MENSAJE_2/src/uart_rx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/UART_MENSAJE_2/src/uart_top.v",
+    "InstLine" : 39,
+    "InstName" : "u_tx",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/UART_MENSAJE_2/src/uart_tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   }
+  ]
+ }
+]

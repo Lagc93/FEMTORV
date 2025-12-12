@@ -1,0 +1,47 @@
+
+# LED de ejecución del programa
+IO_LOC "LED_EXEC" N16;
+IO_PORT "LED_EXEC" PULL_MODE=UP DRIVE=8 IO_TYPE=LVCMOS33;
+
+# LED de UART (existente)
+IO_LOC "LEDS" L16;
+IO_PORT "LEDS" PULL_MODE=UP DRIVE=8 IO_TYPE=LVCMOS33;
+
+# UART - Usando pines directos del FPGA (no BL702)
+IO_LOC "TXD" M11;
+IO_LOC "RXD" T13;
+IO_PORT "TXD" IO_TYPE=LVCMOS33;
+IO_PORT "RXD" IO_TYPE=LVCMOS33;
+
+# SPI Flash (aunque no se use, mantener definidos)
+IO_LOC "spi_mosi" H2;
+IO_PORT "spi_mosi" IO_TYPE=LVCMOS33;
+IO_LOC "spi_miso" G2;
+IO_PORT "spi_miso" IO_TYPE=LVCMOS33;
+IO_LOC "spi_cs_n" K2;
+IO_PORT "spi_cs_n" IO_TYPE=LVCMOS33;
+IO_LOC "spi_clk" J1;
+IO_PORT "spi_clk" IO_TYPE=LVCMOS33;
+
+# SPI RAM
+IO_LOC "spi_clk_ram" L14;
+IO_PORT "spi_clk_ram" IO_TYPE=LVCMOS33;
+IO_LOC "spi_cs_n_ram" L13;
+IO_PORT "spi_cs_n_ram" IO_TYPE=LVCMOS33;
+IO_LOC "spi_miso_ram" K14;
+IO_PORT "spi_miso_ram" IO_TYPE=LVCMOS33;
+IO_LOC "spi_mosi_ram" K13;
+IO_PORT "spi_mosi_ram" IO_TYPE=LVCMOS33;
+
+# Reloj y Reset
+IO_LOC "clk" H11;
+IO_PORT "clk" IO_TYPE=LVCMOS33;
+
+# RESETN - USAR UN PIN DE 3.3V (NO T5,T14 que es 1.5V)
+IO_LOC "resetn" C7;       # Este es un botón físico (SW4) en 3.3V
+IO_PORT "resetn" PULL_MODE=UP IO_TYPE=LVCMOS33;
+
+
+
+
+

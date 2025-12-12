@@ -1,0 +1,80 @@
+[
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/MappedSPIFlash.v",
+  "InstLine" : 1,
+  "InstName" : "MappedSPIFlash",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/MappedSPIFlash.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "MappedSPIFlash"
+ },
+ {
+  "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+  "InstLine" : 178,
+  "InstName" : "femto",
+  "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+  "ModuleLine" : 178,
+  "ModuleName" : "femto",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+    "InstLine" : 250,
+    "InstName" : "CPU",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femtorv32_quark.v",
+    "ModuleLine" : 268,
+    "ModuleName" : "FemtoRV32"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+    "InstLine" : 284,
+    "InstName" : "firmware_rom",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/firmware_flash.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "firmware_flash"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+    "InstLine" : 290,
+    "InstName" : "mapped_spi_ram",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/MappedSPIRAM.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "MappedSPIRAM"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+    "InstLine" : 310,
+    "InstName" : "per_uart",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/peripheral_uart.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "peripheral_uart",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/peripheral_uart.v",
+      "InstLine" : 64,
+      "InstName" : "uart0",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/uart.v",
+      "ModuleLine" : 147,
+      "ModuleName" : "uart"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/femto.v",
+    "InstLine" : 324,
+    "InstName" : "mult1",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/peripheral_mult.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "peripheral_mult",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/peripheral_mult.v",
+      "InstLine" : 59,
+      "InstName" : "multiplier_inst",
+      "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/FEMTO3/src/mult.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "mult"
+     }
+    ]
+   }
+  ]
+ }
+]
