@@ -1,0 +1,3 @@
+
+IO_LOC "led"  =  N16;          # LED2 del Dock
+IO_PORT "led" = IO_TYPE=LVCMOS33;

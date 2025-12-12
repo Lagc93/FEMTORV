@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="led_blink_all" Register="100" Alu="92" Lut="40" T_Register="100(100)" T_Alu="92(92)" T_Lut="40(40)"/>

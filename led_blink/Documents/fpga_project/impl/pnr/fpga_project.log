@@ -1,0 +1,6 @@
+Reading netlist file: "C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\led_blink\Documents\fpga_project\impl\gwsynthesis\fpga_project.vg"
+Parsing netlist file "C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\led_blink\Documents\fpga_project\impl\gwsynthesis\fpga_project.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\led_blink\Documents\fpga_project\src\leds.cst"
+ERROR  (CT2000) : "C:\Gowin\Gowin_V1.9.11.03_Education_x64\IDE\bin\Documents\led_blink\Documents\fpga_project\src\leds.cst":2 | 'syntax error' near token '='
+Physical Constraint parsed completed with errors

@@ -1,0 +1,53 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Fri Sep 12 16:35:11 2025
+
+//Source file index table:
+//file0 "\C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/lebuttom/src/led_buttons.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+vknjb0u4AsWzWFaaUD/KZVuTmK5gkdwqTk5B1u2cYVX1aZ0YPoxvT7MJynbX+ZOVfqx4uw87J10B
+7N9RRrePdRfwy0ROOuU9ocwrr1MCCMiURf4SF2XCAz+7BnWvj0jSJaCOX4M9fhJCb4KbYJ1YJQ9N
+KUVHqxomnYlQjvxnsSWmvYR/4EX1mBa2/GGl+4Mj4tdZpwQTfvqZcdBetPLTmBgtyM4vhnaFVD8/
+9PAd3e2pJWyLUrQw02m9fFSRA/FWj5QyRHlrlvngosF/CMW1r2I/vgyc9qCkk7mLt5OMyb1VIlCu
+X1SVC5c4ScDa+84OHrAZdrDAzt07RRpjkFGdfA==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=1344)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+zTI3dgPzC/q9MFB5k/VxBqeoFHtziZqF81/ccZPLhTP6Swckdp34WCkn7P5XDMOQBQAMq8wNRacm
+Sai3xUDfJsIuXaUU0VqnnRxk8Kyktjvus0AONfQ6BcDQp3E5MXFhebmrQbVxIZzhxgVVSsAP9sND
+rKQjlGc6hM3dybeYJPON6tJh9dAIp4IQoP3bf2tVBk3q7wIHPGn2PPqq78wMmgBRdRJumhPmmYIT
+XZMR8xc/10kg/QBpRPdDc2coqhGNma6d9oZWk1E8XSn3NEWgwxbwk4xgJOyn7dxNGoIK8OmIyuIE
+Rp0o9EGSh/I+TPnBqsqAA6OGaS85/0HkZxm4Y1demtdJb3AL13UWBh+SwwuXYQsVmTOaq6KCiI/B
+AlZjbHTrGspNBZDFUdRjDvlvxNKEyMmsrnZ3G5GosIq59tOAg7f/MZFXr7qUdL+3J8USbrp14ulk
+uu7N4WOn3lmlbzxDv0dP1MWUS4LWhD+sFSDEfNeKP15W90NNNYkoWXwUhV8kfMsvbHoPhTzCmbXh
+52+ViNLBloTbtMzvBOw2rj0PDSYjM7MKLtrljEtLSEmF0nv9Eq7iLi9KNg/NmcSx8x6jv3J52vM7
+N/1yISK8TiMyXxl+PkZakeRKAsGTCbpwlx21CCWQwT3zpm7ZWOmG1tsUpRbFePuazfpVxTWM8+pn
+f2bsQWl72OSPPnkInnPSbcZXIWwa6eXdiWJFgB4tgWwSHC5Pd0S4MvvDxBqrp9PFxJbAf0Z4NCod
+h97OMbjMgH5mpGYjKFzoiuavQclkI7+3l0Gj+yPiHkfYOAmLDAprDkrCczfBtfpdfvozg2VvDuA4
+9KIKQgvgcfgWT3EWXT+HUOFXMmZlIYr7rnJr8IUnOFCI5hZudjdsirI2OtLCsj+yLcCfLqY+P1S3
+mWJeDTBW7aOLdNZVTdXz6+yqtx3LugiqUuhUzDcEIke2mTVu8vUX9gb505fT8yn1+GF2RS7pfJIk
+c2l56fkBXKHHMk3wrKbOlTfAkFSg+msrgdgF+HkxDz5TqsuLGqvIwgdvwvzI0HpWNT1iPsrgmvEL
+/jx/4BhbB9xk/aTaz2d8C+/g7Fbg1J3ptrh0ENKqP0N1I/IVzS3OJbi7MAriG9FpBCbPi41cSjEd
+O5k1TTeNulDRli6murqzlvLF559FI5YNUucEFqc7e1lpPUsv6LYuuZXJgXoZAjXyY20eIUWUCXXY
+WuyAuWH0KgTUxnUcM/K6E1XbiJ9iTO9JdgQEUBoCr2H4IZjEkib2sL0rmMAaMMO2wgjVclBDzZTW
+CdT9ZsyhgG38zEWkbmqHR5fxKH2D7PonvYlP3cracByiTYhlq/dbrqMoKnRjRL9goVb8T+dZeOJ9
+aGFvmQbetOiT/7gwBsEaunPfWJUMuL9WYAmpMJ5Pw+GFLozPW43KB5dSyTyao37gJytyvzlAD9OL
+w9EzIE5VNqV42zqklBH3OaNx2WnOw2MOjsL9b8BJOhPCg6TMtcpxzENlhTSAOzPPN0f7kM2bwFum
+cUrHzsXRZBqMyp3ThOnwQyvjqYKnmdMc7L1ItCmX9eNdpWxz9Z4uVNEoTzroP7GCflHxd3Srh5TP
+zEsbpJNxsCJHv/EviJ311wc0BCz3XlH3GRhz1R8fN4dzbqBLJ6EV1uBVN6YcY0KGJrY1+YElENj5
+5V9VrkjBq1w5+g4TG3b/Zxju5N5fXPQPC4ED2RIj6niI6VDsBYLTV7ALMxmav0/4ku38zUdQiCFj
+rJyNnIXRpyJPz5yIGKufAzHyX+FvlYypgseYhbeVc2JN
+`pragma protect end_protected
